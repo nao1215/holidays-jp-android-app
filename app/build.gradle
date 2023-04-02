@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'jp.debimate.leadtime'
+    namespace 'jp.debimate.holidays'
     compileSdk 33
 
     defaultConfig {
-        applicationId "jp.debimate.leadtime"
+        applicationId "jp.debimate.holidays"
         minSdk 31
         targetSdk 33
         versionCode 1

@@ -1,4 +1,4 @@
-package jp.debimate.leadtime
+package jp.debimate.holidays
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package jp.debimate.leadtime
+package jp.debimate.holidays
 
 import org.junit.Test
 
